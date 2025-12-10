@@ -2,20 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/epi/about.html",
-      "/epi/agenda.html",
-      "/epi/day1.html",
-      "/epi/day2.html",
-      "/epi/day3.html",
-      "/epi/day4.html",
-      "/epi/day5.html",
       "/epi/enregistrement.html",
-      "/epi/jour1.html",
-      "/epi/jour2.html",
-      "/epi/jour3.html",
-      "/epi/jour4.html",
-      "/epi/jour5.html",
-      "/epi/note.html"
+      "/epi/note.html",
+      "/epi/agenda.html",
+      "/epi/about.html"
     ]
   }
 ]

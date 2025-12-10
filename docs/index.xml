@@ -10,21 +10,113 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 09 Dec 2025 13:57:48 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 13:22:31 GMT</lastBuildDate>
 <item>
-  <title>Contacts</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</link>
+  <title>Inscriptions</title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</link>
   <description><![CDATA[ 
-<p>Pour toute information à propos de la reunion, veuillez contacter</p>
-<p><strong>Direction PEV</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:directionpevrdc@gmail.com">directionpevrdc@gmail.com</a></p>
-<p><strong>Suivi et Évaluation PEV</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a></p>
-<p><strong>Chargé des services généraux</strong> <br> <i class="fa-solid fa-phone" title="phone" aria-label="phone"></i> +243 818 153 075</p>
+
+
+
+
+<p>Chers participants et modérateurs,</p>
+<p>Nous sommes ravis de vous accueillir à Matadi! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :</p>
+<ul>
+<li><strong>Remplissez le formulaire</strong> : Entrez vos coordonnées (nom, prénom, adresse e-mail, etc.).</li>
+<li><strong>Validez votre inscription</strong> : Cliquez sur le bouton <strong>“Enregistrer l’inscription”</strong> pour confirmer votre participation.</li>
+<li><strong>Téléchargez le calendrier</strong>: Accedez a la section <em>Other Links</em> et cliquez sur <strong>Télécharger Agenda</strong> (à droite de votre écran), puis suivez les instructions d’installation pour ajouter le calendrier à votre application de gestion de calendrier préférée (par exemple, Outlook, Google Calendar, etc.). N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement !</li>
+</ul>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<iframe src="https://worldhealthorg.shinyapps.io/inscriptions_revue_rdc/" style="border: none; width: 100%; height: 100vh; margin: 0; padding: 0;" frameborder="0" allowfullscreen="">
+</iframe>
+
+
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-  <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
+  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="note-dinformation" class="level2">
+<h2 class="anchored" data-anchor-id="note-dinformation">Note d’information</h2>
+<section id="dates-et-lieu" class="level3">
+<h3 class="anchored" data-anchor-id="dates-et-lieu">Dates et lieu</h3>
+<p>La réunion se tiendra du <strong>15 au 21 décembre 2025</strong> à l’hôtel <em>Leydia</em> de la ville de Matadi<br> Email: <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a>-Téléphone : +243 89 763 44 12 / +243 81 488 58 05</p>
+</section>
+<section id="perdiem" class="level3">
+<h3 class="anchored" data-anchor-id="perdiem">Perdiem</h3>
+<p>Les participants recevront un perdiem conforme au taux GIBS applicable. Les pauses café de groupe seront servies durant l’atelier et offert payés par l’organisation. Tout autre repas sera pris en charge par chaque participant. Il est vivement recommandé à tous les participants pris en charge par l’organisation de se faire payer le perdiem dans leur lieu de résidence avant d’effectuer le voyage.</p>
+</section>
+<section id="monnaie" class="level3">
+<h3 class="anchored" data-anchor-id="monnaie">Monnaie</h3>
+<p>La monnaie officielle de la RDC est le Franc Congolais (FC). Le taux de change : 1 USD = 2300 FC (Decembre 2025). La devise américaine (USD) est acceptée dans tous les commerces de Matadi.</p>
+</section>
+<section id="accueil-à-matadi" class="level3">
+<h3 class="anchored" data-anchor-id="accueil-à-matadi">Accueil à Matadi</h3>
+<p>Pour les agents du MSHPH, l’organisation mettra à leur disposition un moyen de transport pour le trajet Kinshasa-Matadi-Kinshasa. Par ailleurs, l’organisation couvrira les frais de transport pour les trajets entre les provinces et Kinshasa.</p>
+<p>Les participants sont responsables de leur déplacement dans la ville de Matadi. Aucune disposition particulière ne sera mise en place pour leur réception à Matadi. Toutefois, nous encourageons les participants à contacter la cellule de suivi et evaluation du PEV <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a> pour plus amples informations.</p>
+</section>
+<section id="prévention-des-méconduites-sexuelles" class="level3">
+<h3 class="anchored" data-anchor-id="prévention-des-méconduites-sexuelles">Prévention des Méconduites Sexuelles</h3>
+<p>Un briefing sur la prévention des méconduites sexuelles sera dispensé aux membres de la mission à leur arrivée (généralement en synchronisation avec le briefing de sécurité).</p>
+</section>
+<section id="securité" class="level3">
+<h3 class="anchored" data-anchor-id="securité">Securité</h3>
+<p>La situation sécuritaire à Matadi est relativement calme. Les menaces liées à la sécurité auxquelles les personnes peuvent être confrontées à Matadi sont principalement de la criminalité et des troubles civils. La criminalité est répandue à Matadi, y compris dans la commune de XXXXXXX. Les activités criminelles comprennent le vol à la tire, le pickpocket, les cambriolages, les braquages d’individus et de véhicules. Les criminels concentrent leurs attaques sur les personnes perçues comme ayant de l’argent ou des objets de valeur. Les acteurs criminels identifiés sont les enfants de la rue communément appelés « Shegués », les gangs organisés « Kulunas ». Il est conseillé d’éviter les grands rassemblements publics, en particulier les manifestations politiques. Il est également important d’être conscient du danger que peut représenter la circulation routière à Matadi. Les accidents de la route sont très fréquents à Kinshasa où le code de la route est très peu respecté par les usagers.</p>
+<p>Il est recommandé de respecter les précautions de sécurité habituelles et de contacter le responsable de la sécurité et son assistant aux coordonnées ci-après :</p>
+<p>XXXXXXXXXX XXXXXXXXXXX</p>
+</section>
+<section id="hébergement" class="level3">
+<h3 class="anchored" data-anchor-id="hébergement">Hébergement</h3>
+<p>Tous les participants ont un libre choix de leurs hotels. Toutefois, nous les encourageons à loger aux environ de l’hotel Leydia.</p>
+</section>
+<section id="climat" class="level3">
+<h3 class="anchored" data-anchor-id="climat">Climat</h3>
+<p>La RDC, a une superficie de 2 345 000 Km2 et une population estimée à 102 millions d’habitants, elle constitue un patrimoine culturel exceptionnel avec près de 450 ethnies. La diversité culturelle, artistique et linguistique constitue l’une des grandes richesses de la RDC. La ville de Matadi connaît deux saisons réparties comme suit : la saison sèche, de mai à septembre et la saison des pluies, d’octobre à avril. Pendant le mois de décembre qui correspond à la saison des pluies, il y a d’intense soleil, les températures oscillent entre 30°C et 35°C.</p>
+</section>
+<section id="langues" class="level3">
+<h3 class="anchored" data-anchor-id="langues">Langues</h3>
+<p>Le français est la langue administrative officielle, le lingala et le kikongo sont les principales langues locales parlées à Matadi.</p>
+</section>
+<section id="appels-telephoniques-internationaux-acces-internet" class="level3">
+<h3 class="anchored" data-anchor-id="appels-telephoniques-internationaux-acces-internet">Appels Telephoniques Internationaux/ Acces Internet</h3>
+<p>Des installations pour les appels téléphoniques internationaux et l’accès à internet sont disponibles à l’Hôtel Leydia. Les cartes téléphoniques et cartes SIM locales sont vendues dans les magasins de la ville.</p>
+</section>
+<section id="heure-locale" class="level3">
+<h3 class="anchored" data-anchor-id="heure-locale">Heure Locale</h3>
+<p>Heure de Kinshasa et Brazzaville GMT+1</p>
+</section>
+<section id="électricité" class="level3">
+<h3 class="anchored" data-anchor-id="électricité">Électricité</h3>
+<p>Le courant électrique en RDC varie entre 3,22 et 4,89 kWh/m2/j. Les prises recommandées sont deux broches rondes.</p>
+</section>
+<section id="adresse-et-contactcs-utiles" class="level3">
+<h3 class="anchored" data-anchor-id="adresse-et-contactcs-utiles">Adresse et Contactcs Utiles</h3>
+<ul>
+<li>Direction PEV: <a href="mailto:directionpevrdc@gmail.com">directionpevrdc@gmail.com</a></li>
+<li>Suivi et Évaluation PEV: <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a></li>
+<li>Chef de division provinciale du Congo central: +243 85 612 96 60</li>
+<li>Médécin chef d’antenne Matadi: +243 89 86 15 181</li>
+<li>Chef de Bureau OMS Matadi: +243 81 89 98 506</li>
+<li>Chargé des services généraux: +243 818 153 075</li>
+</ul>
+<!-- - Unicef: [amudipanu@unicef.org](amudipanu@unicef.org)- Tel: +243 81 45 87 908]: -->
+
+
+</section>
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
+  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -490,620 +582,22 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
+  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
 </item>
 <item>
-  <title>Journée du 09 septembre 2024</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</link>
+  <title>Contacts</title>
+  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</link>
   <description><![CDATA[ 
-
-
-
-
-
-<div class="card-container">
-  <div class="card">
-    <h3 class="anchored">Mise à jour sur le suivi des recommandations de la réunion 2023 des directeurs PEV d'Afrique centrale</h3>
-    <p>Shalom Tchokfe Ndoula<br> (PEV Cameroun SP)</p>
-    <a href="presentations/j1/Suivi des recommandations de la réunion de Douala 2023.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">GAVI: les nouvelles orientations</h3>
-    <p>Martin Morand<br>(Gavi)</p>
-    <a href="presentations/j1/gaviupdate.pdf" download="">Télécharger la présentation</a>
-  </div>
-    <div class="card">
-    <h3 class="anchored">Immunisation et Sauver des vies et des moyens de subsistance (SLL)</h3>
-    <p>Lucy Sembuche Senga<br>(Africa CDC)</p>
-    <a href="presentations/j1/ssl.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Importance de l'intégration des services de vaccination dans les soins de santé primaires.</h3>
-    <p>Katja Schemionek <br>(OMS-HQ)</p>
-    <a href="presentations/j1/PHC_Imm_Integration (French).pptx" download="">Télécharger la présentation(FR)</a>
-   <a href="presentations/j1/PHC_Imm_Integration.pptx" download="">Télécharger la présentation(EN)</a>    
-  </div>
-    <div class="card">
-    <h3 class="anchored">Enseignements tirés des premières introductions de vaccins antipaludiques en Afrique</h3>
-    <p>Adidja Amani<br>(Responsable des incidents AMVIRA)  </p>
-    <a href="presentations/j1/AMANI CA_EPI MANAGERS MEETING.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Situation des enfants zéro-dose et élaboration et mise en œuvre des plans de rattrapage en Afrique centrale </h3>
-    <p>Franck Mboussou &amp; Yolande Vuo-Masembe<br>(OMS IST-CA)</p>
-    <a href="presentations/j1/situationZD.pptx" download="">Télécharger la présentation</a>
-  </div>
-    <div class="card">
-    <h3 class="anchored">Vaccins pour le grand rattrapage : État des commandes pour les pays d'Afrique centrale et conseils de gestion </h3>
-    <p>Stéphanie Lapierre &amp; Célestin Traoré<br>(UNICEF WCARO)</p>
-    <a href="presentations/j1/vaccin pour le grand rattrapage_etat des commandes pour les pays d Afrique.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Suivi et notification du rattrapage des vaccinations essentielles dans le cadre du grand rattrapage</h3>
-    <p>Carolina Danovaro<br>(OMS/HQ)</p>
-    <a href="presentations/j1/bcume.pptx" download="">Télécharger la présentation</a>
-  </div>
-
-</div>
-
-
-
+<p>Pour toute information à propos de la reunion, veuillez contacter</p>
+<p><strong>Direction PEV</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:directionpevrdc@gmail.com">directionpevrdc@gmail.com</a></p>
+<p><strong>Suivi et Évaluation PEV</strong> <br><i class="fa-solid fa-envelope" title="email" aria-label="envelope"></i> <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a></p>
+<p><strong>Chargé des services généraux</strong> <br> <i class="fa-solid fa-phone" title="phone" aria-label="phone"></i> +243 818 153 075</p>
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day1.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 16 décembre 2025</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="card-container">
-<div class="card">
-  <h3 class="anchored">Mises à jour sur les nouveaux vaccins : hexavalent, DTP Boosters, etc.</h3>
-  <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
-  <a href="presentations/j2/1_ New Vaccines and Upcoming NUVI for CA EPI mtg 10Sept24 draft_frenchCTBf.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Introduction du vaccin anti-papillomavirus : évolution de la couverture vaccinale et guide de l'OMS sur le vaccin anti-papillomavirus à dose unique</h3>
-  <p>Carole Tevi Benissan<br>(OMS-HQ)</p>
-  <a href="presentations/j2/2_ HPV vax updateCA_CTB.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">HPV changement de calendrier de 2 à 1 dose et extension chez les garçons, intégration systématique à l'école</h3>
-  <p>Cameroun</p>
-  <a href="presentations/j2/CMR_Expérience Switch Vaccin HPV et extension aux garçons.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Introduction du HepB0</h3>
-  <p>Burundi</p>
-  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Introduction du Rota</h3>
-  <p>Congo</p>
-  <a href="presentations/j2/rota.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Introduction du VPI</h3>
-  <p>Gabon<br>(OMS IST-CA)</p>
-  <a href="presentations/j2/Panel_Gabon20240831.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">État de la mise en œuvre de l'engagement n° 2 de l'IDA : Accroître et pérenniser les investissements nationaux et les allocations budgétaires en faveur de la vaccination en Afrique</h3>
-  <p>Franck Mboussou &amp; Amos Petus<br>(OMS-AFRO)</p>
-  <a href="presentations/j2/État de la mise en œuvre de l'engagement n 2 de l'IDA.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Plan de Mashako et Déclaration de Kinshasa</h3>
-  <p>RDV</p>
-  <a href="presentations/j2/J2-P3_Engagement politique et financement durable de la vaccination_RDC (Plan de Mashako et Déclaration de Kinshasa_VF.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Financement durable de la vaccination</h3>
-  <p>Angola</p>
-  <a href="presentations/j2/Financement durable de la vaccination FR.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Gestion du financement public de la vaccination par les partenaires internationaux tels que l'OMS</h3>
-  <p>Guinée Équatoriale</p>
-  <a href="presentations/j2/Panel_EQG_Gestion du financement public de la vaccination par les partenaires internationaux.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Financement public/ mécanisme d’achats groupés de vaccins</h3>
-  <p>Gabon</p>
-  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">L'expérience de l'Amérique du Sud dans le déploiement des SVE et les recommandations pour la région africaine</h3>
-  <p>Carolina Danovaro<br>(OMS-HQ)</p>
-  <a href="presentations/j2/EIR overview and PAHO exp-Sept2024.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Lignes directrices SMART et application à la surveillance du MPV</h3>
-  <p>Patricia Ndumbi<br>(Santé numérique, OMS-HQ)</p>
-  <a href="presentations/j2/Ndumbi_Surveillance Standards_EPI_AFRO_20240909_FRENCH.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Utilisation des SIG dans l'identification des zones à risque pour les enfants à dose zéro</h3>
-  <p>Roland Ngom (PPHM, OMS-AFRO)</p>
-  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Planification et enregistrement des données par session de vaccination</h3>
-  <p>Cameroun</p>
-  <a href="presentations/j2/CMR_Panel planification et enregistrement des données par session.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Expérimentation du registre électronique</h3>
-  <p>RDC</p>
-  <a href="presentations/j2/RDC_J2-P4_Santé digitale dans le PEV et évaluation de la couverture vaccinale_RDC expérimentation du registre électronique_VF.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Gestion de la campagne de vaccination contre la rougeole</h3>
-  <p>Burundi</p>
-  <a href="presentations/j2/Situation de la rougeole au Burundi.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Succès de la stratégie urbaine mis en évidence par l'ECV</h3>
-  <p>RCA</p>
-  <a href="presentations/j2/ECV.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Enseignements tirés des enquêtes sur la couverture vaccinale</h3>
-  <p>Carolina Danovaro<br>(OMS-HQ)</p>
-  <a href="presentations/j2/On Vax Coverage Surveys_FR.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Leçons tirées des applications du FPP</h3>
-  <p>Gavi FD&amp;R</p>
-  <a href="presentations/j2/Partage d'experiences FPP 10 septembre 24_FR_revised version.pptx" download="">Télécharger la présentation</a>
-</div>
-<div class="card">
-  <h3 class="anchored">Contribution de GEV à la performance du PEV</h3>
-  <p>Claude Mangobo<br>(IST-CA)</p>
-  <a href="presentations/j2/.pptx" download="">Télécharger la présentation</a>
-</div>
-</div>
-  
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day2.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 17 décembre 2025</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<div class="card-container">
-  <div class="card">
-    <h3 class="anchored">Orientations mondiales sur la SPV et le genre </h3>
-    <p>Carole Tevi Benissan <br> (OMS-HQ)</p>
-    <a href="presentations/j3/1_Genre et vaccination_French_ EPI MM_CA_2024_Final.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Présentations des panélistes nationaux sur l'intégration de la dimension de genre dans les programmes VPD </h3>
-    <p>Angola<br>STP<br>RDC<br>RCA</p>
-    <a href="presentations/j3/dimensão de género nos programas de vacinação FR.pptx" download="">Télécharger la présentation(Angola)</a>
-    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
-    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
-    <a href="presentations/j3/genre_rdc.pptx" download="">Télécharger la présentation(RDC)</a>
-    <a href="presentations/j3/.pdf" download="">Télécharger la présentation</a>
-  </div>
-    <div class="card">
-    <h3 class="anchored">État de la situation de la rougeole en Afrique centrale et paysage du financement de la riposte</h3>
-    <p>Edie-Alain Kemenang<br>(OMS IST-CA)<br>Alice Wimmer<br>(OMS-HQ)</p>
-    <a href="presentations/j3/measles_presentation.pptx" download="">Télécharger la présentation(Surveillance)</a>
-    <a href="presentations/j3/measles outbreak financing EPI.pptx" download="">Télécharger la présentation(Financement)</a>
-    <a href="presentations/j3/complement_rougeole.zip" download="">Télécharger les compléments à la présentation(Financement)</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Présentation des panélistes nationaux sur la détection et la réponse aux épidémies de rougeole </h3>
-    <p>RDC<br>Cameroun<br>Guinée Eq<br>Burundi<br>Tchad</p>
-    <a href="presentations/j3/J3-P6_Surveillance de la rougeole _détection et la réponse aux épidémies de rougeole_RDC (1).pptx" download="">Télécharger la présentation (RDC)</a>
-    <a href="presentations/j3/CMR_Panel détection et réponse aux épidémies de rougeole.pptx" download="">Télécharger la présentation (CMR)</a>
-    <a href="presentations/j3/Panel_EQG_Détection et la réponse aux épidémies de rougeole.pptx" download="">Télécharger la présentation (EQG)</a>
-    <a href="presentations/j3/Situation de la rougeole au Burundi.pptx" download="">Télécharger la présentation (Burundi)</a>
-    <a href="presentations/j3/Presentation  Panel Tchad Reunion des Directeurs.pptx" download="">Télécharger la présentation (Tchad)</a>
-  </div>
-    <div class="card">
-    <h3 class="anchored">Progrès réalisés dans l’éradication et transition polio en Afrique centrale</h3>
-    <p>Sama Ainan &amp; Aissata Diaha<br>(OMS AFRO) </p>
-    <a href="presentations/j3/EPI Managers Polio Transition Draft_.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Recommandations de SAGE sur les vaccins Mpox </h3>
-    <p>DOSHI Reena <br>(OMS)</p>
-    <a href="presentations/j3/SAGE recommendations EPI MM FR.pptx" download="">Télécharger la présentation (FR)</a>
-    <a href="presentations/j3/SAGE recommendations EPI MM.pptx" download="">Télécharger la présentation</a>
-  </div>
-    <div class="card">
-    <h3 class="anchored">Expérience de la RDC dans le déploiement des vaccins contre Mpox </h3>
-    <p>PEV RDC</p>
-    <a href="presentations/j3/mpox_RDC.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Démonstration sur le Dashboard et socrecards sur la  déclaration d’Addis sur la vaccination</h3>
-    <p>Franck Mboussou <br>(IST-CA)</p>
-    <a href="presentations/j3/demonstration sur le dashboard scorecard.zip" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Gavi 6.0 et évolution des partenariats</h3>
-    <p>Florence Conteh-Nordman<br>(Gavi)</p>
-    <a href="presentations/j3/FinalVersionFLO_EPI_Evolution of partnership_consultations.pptx" download="">Télécharger la présentation(Gavi 6.0: Évolution des Partenariats de l’Alliance)</a>
-    <a href="presentations/j3/Health systems EPI regional meeting_central africa.pptx" download="">Télécharger la présentation(Stratégie relative aux systèmes de santé 6.0)</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Vaccination des populations spéciales et en contexte humanitaire</h3>
-    <p>Marcellin Nimpa (OMS) &amp; GAVI</p>
-    <a href="presentations/j3/RDC_J4-S4_Vaccination des populations spéciales et en contexte humanitaire.pptx" download="">Télécharger la présentation</a>
-  </div>
-  <div class="card">
-    <h3 class="anchored">Continuer à garantir l’innocuité des vaccins</h3>
-    <p>Edinam Agbenu<br>(OMS IST CA)</p>
-    <a href="presentations/j3/pharmacovigilance.zip" download="">Télécharger la présentation</a>
-  </div>
-</div>
-
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day3.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 18 décembre 2025</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day4.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="card-container">
-  <div class="card">
-    <h3 class="anchored">Introduction aux vaccins Ébola</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/2. Introduction to Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Les recommandations du SAGE sur les vaccins contre Ébola</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/3. SAGE Recommendations Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Pourquoi considérer la vaccination à but préventif ?</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/4a. Why conduct preventive vaccination V2-en-FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Accès aux vaccins contre Ébola et application à ICG</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/5. Emergencies and ICG applications_FR.pptx" download="">Télécharger la présentation (FR)</a>
-    <a href="presentations/j4/5. Emergencies and ICG applications.pptx" download="">Télécharger la présentation (EN)</a>    
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Applications à Gavi sur la vaccination contre Ébola</h3>
-    <p>GAVI</p>
-    <a href="presentations/j4/Gavi pEbola Programme_pEbola workshop_September 2024_french_HIO.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Engagement communautaire dans la vaccination contre Ébola</h3>
-    <p>UNICEF</p>
-    <a href="presentations/j4/6.RDC_EPI Manager_Engagement communautaire_personnel de sante_vaccination Ebola.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Orientations et appuis techniques : considérations pratiques pour la vaccination contre Ébola</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/7. Technical guidance and practical considerations for Ebola vaccination_FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Cartographie des risques</h3>
-    <p>DOSHI, Reena (OMS)</p>
-    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Expérience de la RDC dans la vaccination contre Ébola</h3>
-    <p>PEV RDC</p>
-    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
-  </div>
-</div>
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day4.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 19 décembre 2025</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day5.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<div class="card-container">
-  <div class="card">
-    <h3 class="anchored">Introduction aux vaccins Ébola</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/2. Introduction to Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Les recommandations du SAGE sur les vaccins contre Ébola</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/3. SAGE Recommendations Ebola vaccines V2-en-FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Pourquoi considérer la vaccination à but préventif ?</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/4a. Why conduct preventive vaccination V2-en-FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Accès aux vaccins contre Ébola et application à ICG</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/5. Emergencies and ICG applications_FR.pptx" download="">Télécharger la présentation (FR)</a>
-    <a href="presentations/j4/5. Emergencies and ICG applications.pptx" download="">Télécharger la présentation (EN)</a>    
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Applications à Gavi sur la vaccination contre Ébola</h3>
-    <p>GAVI</p>
-    <a href="presentations/j4/Gavi pEbola Programme_pEbola workshop_September 2024_french_HIO.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Engagement communautaire dans la vaccination contre Ébola</h3>
-    <p>UNICEF</p>
-    <a href="presentations/j4/6.RDC_EPI Manager_Engagement communautaire_personnel de sante_vaccination Ebola.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Orientations et appuis techniques : considérations pratiques pour la vaccination contre Ébola</h3>
-    <p>OMS</p>
-    <a href="presentations/j4/7. Technical guidance and practical considerations for Ebola vaccination_FR.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Cartographie des risques</h3>
-    <p>DOSHI, Reena (OMS)</p>
-    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
-  </div>
-  
-  <div class="card">
-    <h3 class="anchored">Expérience de la RDC dans la vaccination contre Ébola</h3>
-    <p>PEV RDC</p>
-    <a href="presentations/j4/.pptx" download="">Télécharger la présentation</a>
-  </div>
-</div>
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/day5.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Inscriptions</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Chers participants et modérateurs,</p>
-<p>Nous sommes ravis de vous accueillir à Matadi! Pour garantir une expérience fluide, veuillez vous enregistrer en suivant les étapes ci-dessous :</p>
-<ul>
-<li><strong>Remplissez le formulaire</strong> : Entrez vos coordonnées (nom, prénom, adresse e-mail, etc.).</li>
-<li><strong>Validez votre inscription</strong> : Cliquez sur le bouton <strong>“Enregistrer l’inscription”</strong> pour confirmer votre participation.</li>
-<li><strong>Téléchargez le calendrier</strong>: Accedez a la section <em>Other Links</em> et cliquez sur <strong>Télécharger Agenda</strong> (à droite de votre écran), puis suivez les instructions d’installation pour ajouter le calendrier à votre application de gestion de calendrier préférée (par exemple, Outlook, Google Calendar, etc.). N’hésitez pas à nous contacter si vous avez des questions ou des préoccupations. Nous avons hâte de vous retrouver lors de notre événement !</li>
-</ul>
-&nbsp;&nbsp;&nbsp;
-<div>
-<embed width="800px" height="950px" src="https://worldhealthorg.shinyapps.io/inscriptions_revue_rdc/" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100%; color: #ffffff" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> 
-
-</div>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 15 décembre 2025</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour1.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<iframe width="800px" height="900px" src="https://worldhealthorg.shinyapps.io/attendance_sheet/" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100%" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour1.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 10 septembre 2024</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<iframe width="1040px" height="720px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUM0NSUE5HWVFTVzhHOU1FRFlQUjRMVjlBUy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour2.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 11 septembre 2024</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<iframe width="1040px" height="720px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUMzVERkdDTkJFN0Q1OFJORlhOTFdETDBZTy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
-
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour3.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 12 septembre 2024</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour4.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<iframe width="1040px" height="720px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUMVlQMk9KUkdMRVhDV1BKNzIyWDFXWDIxUi4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour4.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title>Journée du 19 décembre 2025</title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour5.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aedJolUQUIzWTk4V0JTVzIzOTBMWlowRDZLWThERS4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" msallowfullscreen=""> </iframe>
-
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/jour5.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="note-dinformation" class="level2">
-<h2 class="anchored" data-anchor-id="note-dinformation">Note d’information</h2>
-<section id="dates-et-lieu" class="level3">
-<h3 class="anchored" data-anchor-id="dates-et-lieu">Dates et lieu</h3>
-<p>La réunion se tiendra du <strong>15 au 21 décembre 2025</strong> à l’hôtel <em>Leydia</em> de la ville de Matadi<br> Email: <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a>-Téléphone : +243 89 763 44 12 / +243 81 488 58 05</p>
-</section>
-<section id="perdiem" class="level3">
-<h3 class="anchored" data-anchor-id="perdiem">Perdiem</h3>
-<p>Les participants recevront un perdiem conforme au taux GIBS applicable. Les pauses café de groupe seront servies durant l’atelier et offert payés par l’organisation. Tout autre repas sera pris en charge par chaque participant. Il est vivement recommandé à tous les participants pris en charge par l’organisation de se faire payer le perdiem dans leur lieu de résidence avant d’effectuer le voyage.</p>
-</section>
-<section id="monnaie" class="level3">
-<h3 class="anchored" data-anchor-id="monnaie">Monnaie</h3>
-<p>La monnaie officielle de la RDC est le Franc Congolais (FC). Le taux de change : 1 USD = 2300 FC (Decembre 2025). La devise américaine (USD) est acceptée dans tous les commerces de Matadi.</p>
-</section>
-<section id="accueil-à-matadi" class="level3">
-<h3 class="anchored" data-anchor-id="accueil-à-matadi">Accueil à Matadi</h3>
-<p>Pour les agents du MSHPH, l’organisation mettra à leur disposition un moyen de transport pour le trajet Kinshasa-Matadi-Kinshasa. Par ailleurs, l’organisation couvrira les frais de transport pour les trajets entre les provinces et Kinshasa.</p>
-<p>Les participants sont responsables de leur déplacement dans la ville de Matadi. Aucune disposition particulière ne sera mise en place pour leur réception à Matadi. Toutefois, nous encourageons les participants à contacter la cellule de suivi et evaluation du PEV <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a> pour plus amples informations.</p>
-</section>
-<section id="prévention-des-méconduites-sexuelles" class="level3">
-<h3 class="anchored" data-anchor-id="prévention-des-méconduites-sexuelles">Prévention des Méconduites Sexuelles</h3>
-<p>Un briefing sur la prévention des méconduites sexuelles sera dispensé aux membres de la mission à leur arrivée (généralement en synchronisation avec le briefing de sécurité).</p>
-</section>
-<section id="securité" class="level3">
-<h3 class="anchored" data-anchor-id="securité">Securité</h3>
-<p>La situation sécuritaire à Matadi est relativement calme. Les menaces liées à la sécurité auxquelles les personnes peuvent être confrontées à Matadi sont principalement de la criminalité et des troubles civils. La criminalité est répandue à Matadi, y compris dans la commune de XXXXXXX. Les activités criminelles comprennent le vol à la tire, le pickpocket, les cambriolages, les braquages d’individus et de véhicules. Les criminels concentrent leurs attaques sur les personnes perçues comme ayant de l’argent ou des objets de valeur. Les acteurs criminels identifiés sont les enfants de la rue communément appelés « Shegués », les gangs organisés « Kulunas ». Il est conseillé d’éviter les grands rassemblements publics, en particulier les manifestations politiques. Il est également important d’être conscient du danger que peut représenter la circulation routière à Matadi. Les accidents de la route sont très fréquents à Kinshasa où le code de la route est très peu respecté par les usagers.</p>
-<p>Il est recommandé de respecter les précautions de sécurité habituelles et de contacter le responsable de la sécurité et son assistant aux coordonnées ci-après :</p>
-<p>XXXXXXXXXX XXXXXXXXXXX</p>
-</section>
-<section id="hébergement" class="level3">
-<h3 class="anchored" data-anchor-id="hébergement">Hébergement</h3>
-<p>Tous les participants ont un libre choix de leurs hotels. Toutefois, nous les encourageons à loger aux environ de l’hotel Leydia.</p>
-</section>
-<section id="climat" class="level3">
-<h3 class="anchored" data-anchor-id="climat">Climat</h3>
-<p>La RDC, a une superficie de 2 345 000 Km2 et une population estimée à 102 millions d’habitants, elle constitue un patrimoine culturel exceptionnel avec près de 450 ethnies. La diversité culturelle, artistique et linguistique constitue l’une des grandes richesses de la RDC. La ville de Matadi connaît deux saisons réparties comme suit : la saison sèche, de mai à septembre et la saison des pluies, d’octobre à avril. Pendant le mois de décembre qui correspond à la saison des pluies, il y a d’intense soleil, les températures oscillent entre 30°C et 35°C.</p>
-</section>
-<section id="langues" class="level3">
-<h3 class="anchored" data-anchor-id="langues">Langues</h3>
-<p>Le français est la langue administrative officielle, le lingala et le kikongo sont les principales langues locales parlées à Matadi.</p>
-</section>
-<section id="appels-telephoniques-internationaux-acces-internet" class="level3">
-<h3 class="anchored" data-anchor-id="appels-telephoniques-internationaux-acces-internet">Appels Telephoniques Internationaux/ Acces Internet</h3>
-<p>Des installations pour les appels téléphoniques internationaux et l’accès à internet sont disponibles à l’Hôtel Leydia. Les cartes téléphoniques et cartes SIM locales sont vendues dans les magasins de la ville.</p>
-</section>
-<section id="heure-locale" class="level3">
-<h3 class="anchored" data-anchor-id="heure-locale">Heure Locale</h3>
-<p>Heure de Kinshasa et Brazzaville GMT+1</p>
-</section>
-<section id="électricité" class="level3">
-<h3 class="anchored" data-anchor-id="électricité">Électricité</h3>
-<p>Le courant électrique en RDC varie entre 3,22 et 4,89 kWh/m2/j. Les prises recommandées sont deux broches rondes.</p>
-</section>
-<section id="adresse-et-contactcs-utiles" class="level3">
-<h3 class="anchored" data-anchor-id="adresse-et-contactcs-utiles">Adresse et Contactcs Utiles</h3>
-<ul>
-<li>Direction PEV: <a href="mailto:directionpevrdc@gmail.com">directionpevrdc@gmail.com</a></li>
-<li>Suivi et Évaluation PEV: <a href="mailto:suivievaluationpev@gmail.com">suivievaluationpev@gmail.com</a></li>
-<li>Chef de division provinciale du Congo central: +243 85 612 96 60</li>
-<li>Médécin chef d’antenne Matadi: +243 89 86 15 181</li>
-<li>Chef de Bureau OMS Matadi: +243 81 89 98 506</li>
-<li>Chargé des services généraux: +243 818 153 075</li>
-</ul>
-<!-- - Unicef: [amudipanu@unicef.org](amudipanu@unicef.org)- Tel: +243 81 45 87 908]: -->
-
-
-</section>
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
-  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Tue, 09 Dec 2025 13:57:48 GMT</pubDate>
+  <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
+  <pubDate>Wed, 10 Dec 2025 13:22:31 GMT</pubDate>
+  <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
 </rss>
