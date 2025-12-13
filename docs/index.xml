@@ -10,7 +10,7 @@
 <atom:link href="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sat, 13 Dec 2025 11:05:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 11:32:08 GMT</lastBuildDate>
 <item>
   <title>Inscriptions</title>
   <link>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</link>
@@ -35,7 +35,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/enregistrement.html</guid>
-  <pubDate>Sat, 13 Dec 2025 11:05:27 GMT</pubDate>
+  <pubDate>Sat, 13 Dec 2025 11:32:08 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -107,7 +107,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/note.html</guid>
-  <pubDate>Sat, 13 Dec 2025 11:05:27 GMT</pubDate>
+  <pubDate>Sat, 13 Dec 2025 11:32:08 GMT</pubDate>
 </item>
 <item>
   <title>Agenda</title>
@@ -117,9 +117,12 @@
 
 
 
-<section id="agenda-de-la-revue-annuelle-du-pev" class="level3">
+<section id="agenda-de-la-revue-annuelle-du-pev" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="agenda-de-la-revue-annuelle-du-pev">Agenda de la revue annuelle du PEV</h3>
-<p><img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_1.png" class="img-fluid"> <img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_2.png" class="img-fluid"></p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><br> <br> <img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/qr_code.png" class="img-fluid" style="width:50.0%" alt="Scannez le QR code télécharger l’agenda"> <br> <em>Scannez pour télécharger l’agenda et ouvrez le avec votre application calendrier</em></p>
+</div></div><p><img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_1.png" class="img-fluid"> <img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_2.png" class="img-fluid"></p>
 <p><img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_3.png" class="img-fluid"> <img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_4.png" class="img-fluid"></p>
 <p><img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_5.png" class="img-fluid"> <img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_6.png" class="img-fluid"></p>
 <p><a href="static/agenda/Agenda_7.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/static/agenda/Agenda_7.png" class="img-fluid"></a></p>
@@ -131,7 +134,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/agenda.html</guid>
-  <pubDate>Sat, 13 Dec 2025 11:05:27 GMT</pubDate>
+  <pubDate>Sat, 13 Dec 2025 11:32:08 GMT</pubDate>
 </item>
 <item>
   <title>Contacts</title>
@@ -145,7 +148,7 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Retour au sommet</a> ]]></description>
   <guid>https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/about.html</guid>
-  <pubDate>Sat, 13 Dec 2025 11:05:27 GMT</pubDate>
+  <pubDate>Sat, 13 Dec 2025 11:32:08 GMT</pubDate>
   <media:content url="https://who-ist-ca.github.io/Reunion-Annuelle-PEV/epi/header.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 </channel>
