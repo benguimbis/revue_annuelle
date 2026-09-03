@@ -1,89 +1,88 @@
-/* css styles */
-
-
-.navbar-logo {
-    max-height: 50px;
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-      
-
-
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+/* css styles — WHO (who.int) inspired theme */
+:root {
+  --bs-primary: #008dc9;
+  --bs-primary-rgb: 0, 141, 201;
+  --bs-link-color: #008dc9;
+  --bs-link-hover-color: #003087;
+  --who-dark-blue: #003087;
+  --who-blue: #008dc9;
+  --who-green: #00a651;
+  --who-red: #e2231a;
+  --who-yellow: #ffd100;
 }
 
-.card {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 16px;
-  width: 300px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+body {
+  background-color: #ffffff;
+  color: #212529;
 }
 
-.card h3 {
-  margin-top: 0;
+/* Navbar — WHO dark blue */
+.navbar {
+  background-color: #003087;
+  border-bottom: 4px solid #008dc9;
 }
 
-.card a {
-  display: block;
-  margin-top: 8px;
-  color: #007acc;
-  text-decoration: none;
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff;
+  font-weight: 500;
 }
 
-.card a:hover {
-  text-decoration: underline;
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #ffd100;
 }
 
-
-
-
-/* Basic card styling */
-.card-container {
-  display: flex;
-  flex-wrap: wrap; /* Allows wrapping of cards to next row */
-  justify-content: space-around; /* Align cards with space around them */
-  gap: 16px; /* Space between cards */
-  padding: 16px;
+.navbar .nav-link.active {
+  color: #ffd100;
 }
 
-.card {
-  background-color: #f9f9f9;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  padding: 16px;
-  flex: 1 1 calc(33% - 32px); /* Adjusts to 3 cards per row on larger screens */
-  max-width: 300px; /* Maximum width for each card */
+/* Links — WHO blue */
+a {
+  color: #008dc9;
 }
 
-.card h3 {
-  font-size: 18px;
+a:hover {
+  color: #003087;
 }
 
-.card p {
-  font-size: 14px;
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #003087;
+  font-weight: 700;
 }
 
-.card a {
-  color: #007BFF;
-  text-decoration: none;
+h2 {
+  border-bottom: 3px solid #008dc9;
+  padding-bottom: 0.3rem;
 }
 
-/* Media query for tablets */
-@media screen and (max-width: 1024px) {
-  .card {
-    flex: 1 1 calc(50% - 32px); /* Adjusts to 2 cards per row on tablets */
-  }
+/* Tables */
+table {
+  border-collapse: collapse;
 }
 
-/* Media query for mobile phones */
-@media screen and (max-width: 600px) {
-  .card {
-    flex: 1 1 100%; /* Adjusts to 1 card per row on smaller screens */
-  }
+table thead th {
+  background-color: #003087;
+  color: #ffffff;
+  border: none;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #f2f7fb;
+}
+
+/* Footer */
+.footer {
+  background-color: #003087;
+  color: #ffffff;
+}
+
+.footer a {
+  color: #ffd100;
+}
+
+/* Callout / alert boxes */
+.callout {
+  border-left: 4px solid #008dc9;
 }
